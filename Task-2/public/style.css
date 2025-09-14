@@ -1,0 +1,193 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    height:80px;
+    width:100%;
+    background-color: blue;
+}
+.one{
+    display:flex;
+}
+.two{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.two ul li{
+    display: inline;
+    text-decoration: none;
+
+}
+.two ul li a {
+    color:aliceblue;
+    padding-top: 30px;
+    padding-left: 20px;
+
+}
+.two ul li a button {
+    border-radius: 0%;
+    height:30px;
+    border: 1px solid white;
+    
+}
+.sear{
+    padding-left: 40%;
+    margin-top: 30px;
+    
+
+}
+.sear input{
+    align-items: end;
+    padding-left: 70px;
+    margin-left:0px;
+    height:30px;
+    background-color: #fff;
+    color:#000;
+    border: none;
+    position:relative;
+}
+.img i{
+   margin-top:38px;
+   margin-right:0px;
+   position: absolute;
+   left:1150px;
+}
+.bg{
+    position:relative;
+    width:100%;
+}
+.bg img{
+    height:300px;
+    width: 100%;
+
+}
+.bg h2{
+    padding-top:10px;
+    padding-right:50%;
+}
+.text{
+    position:absolute;
+    top:10px;
+    left:50%;
+    color:aliceblue;
+    font-size: 20px;
+}
+.text h1{
+    color: red;
+}
+.txt{
+    position:absolute;
+    top:50px;
+    left:50%;
+}
+.txt h6{
+    color:#fff;
+}
+.tt{
+    position:absolute;
+    top:75px;
+    left:55%;
+}
+.tt h1{
+    color:#fff;
+}
+.p{
+    position:absolute;
+    bottom:30px;
+    left:60%;
+    color: #fff;
+}
+.p mark{
+    background-color: red;
+    color:yellow;
+}
+#one{
+    position:absolute;
+    height:20px;
+    width:20px;
+    top:85px;
+    right:33%;
+}
+#two{
+    position:absolute;
+    height:20px;
+    width:20px;
+    top:140px;
+    right:33%;
+}
+#three{
+    position:absolute;
+    height:20px;
+    width:20px;
+    top:200px;
+    right:33%;
+}
+#img1{
+    height:50px;
+    width:50px;
+}
+#h1{
+    margin-left:50px;
+    position: absolute; 
+    top:40px;
+    left:10px;
+}
+#img2{
+    height:50px;
+    width:50px;
+}
+#h2{
+    margin-left: 50px;
+    position:absolute;
+    top:60px;
+    left:10px;
+
+}
+#img3{
+    height:50px;
+    width:50px;
+}
+#h3{
+    margin-left: 50px;
+}
+.tb{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.tb table{
+    margin-left: 60px;
+    padding-top: 30px;
+    border-radius: 1px solid #000;
+}
+.tb1{
+    position: relative;
+}
+.tb2{
+    position: relative;
+}
+.tb3{
+    position:relative;
+}
+
+.tr tr td img{
+    height:150px;
+    width: 250px;
+    border-radius: 0%;
+}
+.ll{
+    display: flex;
+    justify-content:space-around;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.tr tr td h2{
+    text-align: center;
+}
+.tr tr td p{
+    text-align: center;
+}
+body{
+    height:130vh;
+}
