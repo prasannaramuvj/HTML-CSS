@@ -1,0 +1,261 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    background-color:rgb(235,232,222);
+    border-top: 5px solid orangered;
+    height:150px;
+}
+.head h1{
+    margin-left:10%;
+    margin-top: 40px;
+    font-family:Comic Sans MS;
+    font-size: 40px;
+    color: orangered;
+}
+.head p{
+    margin-left: 15%;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 900px;
+    margin-top: -30px;
+}
+.nav ul li{
+    padding:0px 5px;
+}
+.nav ul li button{
+    background-color: transparent;
+    border: hidden;
+    font-size: 20px;
+    font-style: normal;
+    color:rgb(128,128,128);
+}
+.nav ul li button:hover{
+    border-bottom:4px solid red;
+}
+.image img{
+    height:400px;
+    width:100%;
+}
+.or{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:orangered;
+    gap:2em;
+    height:100px;
+    align-items: center;
+    position: relative;
+}
+.or p{
+    position: absolute;
+    left:20%;
+}
+.inp{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2em;
+    position:absolute;
+    left:70%;
+}
+.inp input{
+    border-radius: 12px;
+    padding:5px;
+}
+.inp button{
+    border-radius: 12px;
+    color: aliceblue;
+    background-color: black;
+}
+#paa{
+    margin-left: 14%;
+    border-bottom: 1px solid black;
+    margin-right: 14%;
+    padding-bottom: 20px;
+}
+.table table tr td img{
+    width:200px;
+    height:100px;
+}
+.table table{
+    width:50%;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+}
+.table table tr td{
+    justify-content: center;
+    padding:20px;
+}
+#black{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.last{
+    margin-left: 14%;
+    display: flex;
+    gap:3em;
+}
+#para1{
+    padding: 40px 0px;
+}
+.left{
+    width:80%;
+}
+.right{
+    width:80%;
+    padding-top: 15px;
+}
+#im{
+    width:50px;
+    height:50px;
+    padding-bottom: 10%;
+    padding-top: 3%;
+}
+#id{
+    display: flex;
+    gap:2em;
+}
+#per{
+    width:40%;
+    margin-top: 3%;
+}
+.one{
+    display:flex;
+    gap:4em;
+}
+.four img{
+    width:100px;
+    height:100px;
+}
+.one{
+    margin-left: 14%;
+}
+.two{
+    width:100%;
+
+}
+.con{
+    margin-top: 10%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap:5em;
+}
+.con img{
+    margin-left:250px;
+    position: relative;
+}
+.one{
+    position:absolute;
+    display: flex;
+    flex-wrap: wrap;
+    left:8%;
+}
+.one{
+    top:110%;
+}
+#h2{
+    margin-left: 140px;
+}
+#h3{
+    margin-left: 170px;
+}
+.two{
+    display: flex;
+    width:70%;
+    gap:5em;
+    margin-left: 330px;
+    margin-top: -10px;
+}
+#p1{
+    margin-left:50px;
+
+}
+#p2{
+    margin-left: 50px;
+}
+.one1{
+    display: flex;
+    margin-left: 14%;
+}
+.two2{
+    width:350px;
+}
+.two h2{
+    border-bottom: 1px solid black;
+}
+.two2 p{
+    color:white;
+    margin-top: 10px;
+}
+.two2 h3{
+    color:black;
+}
+.three p::before{
+    content:"<i class="fa-solid fa-right-to-bracket"></i>";
+}
+.three p{
+    padding:10px 0px;
+
+}
+.three{
+    margin-left: 20px;
+}
+.four{
+    margin-left: 110px;
+}
+.four h3{
+    color: black;
+}
+.three h3{
+    color:black;
+}
+.three p{
+    color: white;
+}
+.four img{
+    display: block;
+    padding: 10px 0px;
+    height:50px;
+    width:100px;
+}
+#pp{
+    margin-top: 40px;
+    color: white;
+}
+#ppp{
+    margin-top: 40px;
+    color: white;
+}
+#pppp{
+    margin-top: 40px;
+    color:white;
+}
+footer{
+    background-color:rgb(171,171,171);
+}
+.l{
+    background-color: black;
+    height:50px;
+}
+.l p{
+    color: white;
+    margin-left: 150px;
+    padding-top: 10px;
+    
+}
+.icon i{
+    color: aliceblue;
+    padding-left: 5px;
+}
+.icon{
+    margin-left: 70%;
+}
+#para{
+    color: white;
+}
