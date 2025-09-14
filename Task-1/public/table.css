@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: blue;
+    width: 100%;
+    height:100px;
+}
+.f{
+    display: flex;
+}
+#one{
+    height: 100px;
+    width:20%;
+}
+.icon ul li a img{
+    width:20%;
+    height:60px;
+    margin-left: 20px;
+
+}
+.icon ul li{
+    display: inline;
+}
+.icon ul li a {
+    margin-right: auto;
+}
+.icon{
+    position: absolute;
+    right:0%;
+    margin-top: 20px;
+}
+.two {
+    display:flex;
+}
+#headr{
+    padding-left: 20px;
+}
+.link{
+    background-color: aqua;
+    width: 2510px;
+    height:160vh;
+}
+.link ul li a{
+    font-size: 40px;
+    text-decoration: none;
+}
+.link ul li a:hover{
+    background-color: blue;
+    color: aliceblue;
+    width:100%;
+}
+.foot{
+    background-color: blue;
+    height: 40px;
+}
+.foot h1{
+    text-align: center;
+    font-size: larger;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tabone{
+    border:1px solid #000;
+    border-collapse: collapse;
+    width: 70%;
+    height: 130vh;
+}
+.tabone tr th img{
+    height: 200px;
+    width:50%;
+}
+.tabone tr td p{
+    display: block;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    unicode-bidi: isolate;
+    font-style: normal;
+    font-size: medium;
+
+}
+.lon{
+    padding-left: 100px;
+    padding-right: 100px;
+}
