@@ -1,0 +1,4 @@
+https://task-6-33f11.web.app
+
+
+html css and media query tried for responsiveness
