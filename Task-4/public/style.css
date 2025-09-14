@@ -1,0 +1,334 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.firsthead{
+    display:flex;
+    height:40px;
+    width:100%;
+    background-color: black;
+}
+.firsthead h2{
+    color:white;
+    font-size: 15px;
+    padding-left: 60px;
+    margin-top: 10px;
+}
+.head h2{
+    font-size: 15px;
+    margin-left:0px;
+    color:white;
+}
+.head{
+    display: flex;
+}
+.firstthree{
+    display: flex;
+    color:white;
+    margin-top: 4px;
+    margin-left: 40px;
+    padding-left: 800px;
+}
+.firstthree h3{
+    font-size: 15px;
+    padding: 7px;
+}
+.firstthree h3 button{
+    color:white;
+    background-color:transparent;
+}
+#icon{
+    color: white;
+    height:20px;
+    width:20px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.second{
+    display: flex;
+    margin-top: 3px;
+    height:70px;
+    width:100%;
+    background-color:darkgrey;
+}
+#simg{
+    margin-top: 5px;
+    height:50px;
+    width:70px;
+    padding: 5px;
+}
+.second h3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.slable{
+    display:flex;
+}
+#label{
+    background-color: blueviolet;
+    margin-left: 150px;
+    margin-top:30px;
+    padding:10px 40px;
+}
+#input{
+    margin-left:-5px;
+    padding: 10px 90px;
+    margin-top: 13px;
+    position: relative;
+}
+#icon1{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: -20px;
+}
+.last{
+    display:flex;
+}
+.last img{
+    height:40px;
+    width:50px;
+    margin-left: 380px;
+    margin-bottom: 3px;
+    padding:5px 10px;
+}
+.last h4{
+    margin-top: 50px;
+    margin-left:-65px;
+}
+.firstimage{
+    padding: 30px;
+    display:flex;
+}
+.firstimage table tr td img{
+    height:450px;
+    border:1px solid purple;
+    width:300px;
+    border:2px solid yellow;
+}
+.bio{
+    margin-left: 15px;
+    padding:5px 20px;
+    background-color: lightgrey;
+    height:450px;
+
+}
+#csk{
+    color: yellow;
+}
+.bio p{
+    padding: 5px 10px;
+}
+.list1 table{
+    height:80px;
+    border-top:1px solid red;
+}
+.list table tr{
+    width:300px;
+}
+.list1 table tr td{
+    padding:5px 15px;
+}
+.table table{
+    border-left: 1px solid red;
+    border-top: 1px solid red;
+    height:80px;
+    margin-top:-712px;
+    margin-left:490px;
+}
+.table table tr{
+    width:200px;
+}
+.table{
+    margin-top: 0px;
+    width:200px;
+    margin-left:-100px;
+}
+.table table tr td{
+    padding:10px 10px;
+}
+.table table tr td i{
+    color: green;
+}
+#red{
+    color:red;
+}
+#wht{
+    height:50px;
+    width:50px;
+    padding:0px;
+}
+.let table{
+    margin:0 70px;
+    height:10px;
+    padding:10px 20px;
+    background-color: lightgrey;
+    width:200px;
+    height:460px;
+}
+.let {
+    padding:0px 10px;
+    margin-top: -490px;
+    margin-left: 1070px;
+}
+.bio p h1{
+    margin-right: 300px;
+}
+.about{
+    width:680px;
+    margin-top: 60px;
+    height:500px;
+}
+.about h1{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.about p{
+    margin-left: 60px;
+    margin-top: -25px;
+}
+#color{
+    color: red;
+}
+#tr{
+    padding: 0 10px;
+}
+.low {
+    margin-left: 30px;
+    width:300px;
+    height:600px;
+    background-color: lightgrey;
+}
+.low h1{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#bttn{
+    padding: 10px;
+    width:80px;
+    background-color: black;
+    color:yellow;
+    margin-top: 0px;
+}
+.container{
+    overflow-y:scroll;
+    height:100px;
+    background-color: yellow;
+}
+.container ul li{
+    list-style-type: none;
+    text-align: center;
+}
+.portfolio{
+    background-color: lightgray;
+    display: flex;
+    margin-top: -600px;
+    margin-left:350px;
+    width:1000px;
+    position: relative;
+    padding-bottom: 50px;
+}
+.portfolio h1{
+    margin-left: 400px;
+}
+.image{
+
+    margin-top:80px;
+    margin-left:-500px;
+    width:1000px;
+    display: flex;
+}
+#rtwo{
+    width:300px;
+    height:200px;
+    padding: 10px;
+
+}
+#rone{
+    width:300px;
+    height:200px;
+    padding:10px;
+    margin-top:0px;
+
+}
+#rthree{
+    width:250px;
+    height:450px;
+    padding: 10px;
+}
+#rfour{
+    width:300px;
+    height:200px;
+    padding:10px;
+}
+#rfive{
+    width:300px;
+    height:200px;
+    padding:10px;
+
+}
+.iuiu{
+    position:absolute;
+    display: flex;
+    top:126%;
+    left:24%;
+    margin-left: 24px;
+}
+.flow{
+    overflow-y: scroll;
+    height:470px;
+}
+.spaces{
+    margin:10px;
+    margin-left: 25px;
+    height:100px;
+    width:88%;
+    background-color: darkgray;
+}
+.spaces h1{
+    text-align: center;
+}
+.sim{
+    display: flex;
+    background-color: lightgrey;
+    margin-left: 20px;
+    width:1340px;
+    justify-content: space-around;
+}
+.sim img{
+    width:150px;
+    height:150px;
+    padding:10px 5px;
+}
+#ip{
+    margin-left: 20px;
+}
+footer{
+    height:150px;
+    width:100%;
+    background-color: black;
+    margin-left: 20px;
+    position: relative;
+}
+footer p{
+    color: aliceblue;
+}
+#cat{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:-1px;
+    left:44%;
+}
+.foot{
+    border-bottom:2px solid red;
+    height:25px;
+}
+#para{
+    margin-left:190px;
+    font-size: 25px;
+}
+#ion{
+    color:aliceblue;
+    margin-top: 40px;
+    padding:5px 5px;
+}
